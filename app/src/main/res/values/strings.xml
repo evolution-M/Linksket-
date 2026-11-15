@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">LinkStash</string>
+    <string name="nav_library">Library</string>
+    <string name="nav_folders">Folders</string>
+    <string name="nav_queue">Downloads</string>
+    <string name="action_save_link">Save Link</string>
+    <string name="action_paste_clipboard">Paste from clipboard</string>
+    <string name="action_import_device">Import media</string>
+    <string name="action_new_folder">New folder</string>
+    <string name="action_download_offline">Download for offline</string>
+    <string name="action_inspect_link">Preview media</string>
+    <string name="action_save_to_device">Save to device</string>
+    <string name="action_share_file">Share file</string>
+    <string name="action_open_external">Open with…</string>
+    <string name="action_move_folder">Move folder</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="offline_ready_badge">Offline Ready</string>
+    <string name="empty_library_title">Your offline vault is empty</string>
+    <string name="empty_library_subtitle">Share any link from your browser or social apps, or paste a URL below to save videos, images, and files offline.</string>
+    <string name="empty_folder_title">No files in this folder yet</string>
+    <string name="empty_folder_subtitle">Add a share link or move saved items here for instant offline access.</string>
+    <string name="search_placeholder">Search saved links, titles, or folders…</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_search">Search saved media</string>
+    <string name="cd_clear_search">Clear search</string>
+    <string name="cd_toggle_view">Switch grid or list view</string>
+    <string name="cd_favorite">Toggle favorite</string>
+    <string name="cd_more_options">More options</string>
+    <string name="cd_empty_vault_art">Illustration of media cards organizing into offline folders</string>
+    <string name="error_invalid_url">Please enter a valid http or https link.</string>
+    <string name="error_no_media_found">Could not find a downloadable media file at that link.</string>
+</resources>

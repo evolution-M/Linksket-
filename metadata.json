@@ -1,0 +1,6 @@
+{
+  "name": "LinkStash",
+  "description": "Download videos, images, audio, and files from share links and organize them into custom offline folders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
